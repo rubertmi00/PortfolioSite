@@ -36,7 +36,8 @@ li a{
     display: block;
     color: rgb(238, 209, 209);
     text-align: center;
-    padding: 14px 80px;
+    width: 80px;
+    height: 20px;
     text-decoration: none;
 }
 

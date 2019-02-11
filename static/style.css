@@ -20,7 +20,7 @@ header a{
     text-decoration: none;
 }
 
-ul{
+nav ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -28,14 +28,15 @@ ul{
     background-color: rgb(98, 0, 65);
 }
 
-li{
+nav li{
     float: left;
 }
   
-li a{
+nav li a{
     display: block;
     color: rgb(238, 209, 209);
     text-align: center;
+    padding: 14px 80px;
     width: 80px;
     height: 20px;
     text-decoration: none;
@@ -45,7 +46,7 @@ li a{
     background-color: rgb(48, 0, 32);
 }
 
-li a:hover{
+nav li a:hover{
     background-color: rgb(48, 0, 32);
 }
 

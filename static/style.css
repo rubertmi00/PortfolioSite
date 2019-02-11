@@ -57,3 +57,13 @@ h1{
 h2{
     text-align: center;
 }
+
+li{
+    text-indent: 30px;
+}
+
+img {
+    float: center;
+    width: 100px;
+    height: 75px;
+ }

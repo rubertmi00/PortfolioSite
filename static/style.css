@@ -20,27 +20,35 @@ header a{
     text-decoration: none;
 }
 
+nav{
+    width: 100%;
+    height: 50px;
+    position: sticky;
+    top: 0;
+}
+
 nav ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: rgb(98, 0, 65);
+    text-align: center;
 }
 
 nav li{
     float: left;
+    text-align: center;
 }
   
 nav li a{
     display: block;
     color: rgb(238, 209, 209);
-    text-align: center;
     padding: 14px 55px;
     text-decoration: none;
 }
 
-#current_page{
+nav #current_page{
     background-color: rgb(48, 0, 32);
 }
 
@@ -48,19 +56,19 @@ nav li a:hover{
     background-color: rgb(48, 0, 32);
 }
 
-h1{
+main h1{
     text-align: center;
 }
 
-h2{
+main h2{
     text-align: center;
 }
 
-li{
+main li{
     text-indent: 30px;
 }
 
-img {
+main img {
     float: center;
     width: 100px;
     height: 75px;

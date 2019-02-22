@@ -6,7 +6,6 @@ header{
     color:rgb(238, 209, 209);
     background: -webkit-linear-gradient(bottom right, Red, rgb(1, 1, 95));
     font-size: 150%;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 10px;
 }
 
@@ -58,10 +57,16 @@ nav li a:hover{
 
 main h1{
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 main h2{
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main h3{
+    font-family: 'Courier New', Courier, monospace;
 }
 
 main li{

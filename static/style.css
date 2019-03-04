@@ -45,6 +45,7 @@ nav li a{
     color: rgb(238, 209, 209);
     padding: 14px 55px;
     text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 nav #current_page{

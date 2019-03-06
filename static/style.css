@@ -79,3 +79,12 @@ main img {
     width: 100px;
     height: 75px;
  }
+
+main #playlists{
+    text-align: center;
+}
+
+ main #insta{
+    margin: 0 auto;
+    display: block;
+ }
